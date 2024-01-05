@@ -23,3 +23,17 @@
 <br><br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%23FFA500&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
+
+### Languages and Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js,html,css" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,linux,jquery" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma,anaconda,github" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring,maven,gradle" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,discord" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase,postman,postgres,mysql" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio" title="Java" alt="Java"/>&nbsp;
+ <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity" title="Java" alt="Java"/>&nbsp;
+</div>
+ 
