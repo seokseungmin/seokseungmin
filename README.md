@@ -10,7 +10,7 @@
 <!-- seokseungmin's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=seokseungmin&show_icons=true&theme=material-palenight&hide_border=false&bg_color=101010&icon_color=FFA500&text_color=fff&title_color=fff&count_private=true" width=52%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seokseungmin&show_icons=true&theme=material-palenight&hide_border=false&bg_color=101010&icon_color=FFA500&text_color=fff&title_color=fff&count_private=true" width=51%/>
 </a>
 <a href="https://github.com/devpla/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokseungmin&layout=compact&theme=dark" width=45% />
