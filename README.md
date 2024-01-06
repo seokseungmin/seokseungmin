@@ -10,13 +10,13 @@
 <!-- seokseungmin's profile -->
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=seokseungmin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=101010&icon_color=FFA500&text_color=fff&title_color=fff&count_private=true" width=50%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=seokseungmin&show_icons=true&theme=material-palenight&hide_border=false&bg_color=101010&icon_color=FFA500&text_color=fff&title_color=fff&count_private=true" width=50%/>
 </a>
 <a href="https://github.com/devpla/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seokseungmin&layout=compact&theme=dark" width=45% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seokseungmin&theme=react-dark&bg_color=101010&hide_border=true&line=FFA500&color=fff" width=98%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seokseungmin&theme=react-dark&bg_color=101010&hide_border=false&line=FFA500&color=fff" width=98%/>
 </a>
 
 
