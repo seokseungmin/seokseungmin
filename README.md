@@ -27,13 +27,7 @@
 ### Languages and Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css" alt="JavaScript, HTML, CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=java,kotlin,py,linux,jquery" alt="Java, Kotlin, Python, Linux, jQuery" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma,anaconda,github" alt="Figma, Anaconda, GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring,maven,gradle" alt="Spring, Maven, Gradle" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,discord" alt="Git, Discord" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase,postman,postgres,mysql" alt="Firebase, Postman, PostgreSQL, MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=eclipse,idea,androidstudio" alt="Eclipse, IntelliJ IDEA, Android Studio" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity" alt="Visual Studio, VSCode, Unity" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,spring,maven,gradle,kotlin,py,git"" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea,eclipse,mysql,postman,postgres,androidstudio,firebase,visualstudio,vscode,unity"/>&nbsp;
 </div>
 
