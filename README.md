@@ -50,16 +50,13 @@ public class About extends Me {
 
 
 # IDE
-![IDE](https://skillicons.dev/icons?i=idea,eclipse,visualstudio,vscode)<br>
+![IDE](https://skillicons.dev/icons?i=idea,eclipse)<br>
 - IntelliJ IDEA
 - Eclipse
-- Visual Studio
-- VSCode
 
 
-# Mobile App Development
+# Native
 ![Mobile App Development](https://skillicons.dev/icons?i=androidstudio,firebase)<br>
-**Native**
 - Android Studio
 - Firebase
 
