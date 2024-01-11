@@ -6,7 +6,7 @@ public class About extends Me {
     public Map<String, String> getMyHobbies() {
         Map<String, String> hobbies = new HashMap<>();
             hobbies.put("first", "Listening to Music");
-            hobbies.put("second", “Watching OTT services");
+            hobbies.put("second", "Watching OTT services");
             hobbies.put("third", "Playing Video Games");
     return hobbies;
 }
