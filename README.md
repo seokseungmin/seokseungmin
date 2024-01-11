@@ -40,9 +40,10 @@ public class About extends Me {
 - JavaScript
 
 # Back-end
-![Back-end](https://skillicons.dev/icons?i=java,spring)<br>
+![Back-end](https://skillicons.dev/icons?i=java,kotlin,spring)<br>
 **Languages**
 - Java
+- kotlin
   
 **Framework**
 - Spring
