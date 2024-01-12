@@ -7,51 +7,25 @@ import java.util.Map;
 
 public class Me {
 
-    private String name, position, web, youtube, instagram;
-    private Map<String, String[]> skills;
-    private String[] architecture;
-    private String[] hobbies;
+    private final String name = "SeokSeungMin";
+    private final String position = "Backend Developer";
+    private final String web = "seokseungmin.github.io/";
+    private final String youtube = "https://www.youtube.com/@seokseungmin";
+    private final String instagram = "https://www.instagram.com/stone.seok/";
+    private final Map<String, String[]> skills;
+    private final String[] hobbies = {"Listening to Music", "Watching OTT services", "Playing Video Games"};
 
     public Me() {
-        // Personal Information
-        this.name = "SeokSeungMin";
-        this.position = "Backend Developer";
-        this.web = "seokseungmin.github.io/";
-        this.youtube = "https://www.youtube.com/@seokseungmin";
-        this.instagram = "https://www.instagram.com/stone.seok/";
-
-        // Skills and Technologies
-        this.skills = new HashMap<>();
-        this.skills.put("programming", new String[]{"HTML", "CSS", "JavaScript", "Java", "Kotlin"});
-        this.skills.put("frameworks", new String[]{"Spring", "Firebase"});
-        this.skills.put("tools", new String[]{"IDEA", "Eclipse", "Android Studio", "Postman"});
-        this.skills.put("databases", new String[]{"MySQL"});
-        this.skills.put("buildTools", new String[]{"Maven", "Gradle"});
-        this.skills.put("versionControl", new String[]{"Git"});
-
-        // Architectural Knowledge
-        this.architecture = new String[] {
-            "MVC Pattern with Spring Framework",
-            "Database Design and Optimization with MySQL",
-            "Web Application Development with Java and JSP",
-            "Design Patterns in Software Development",
-            "Algorithmic Problem Solving",
-            "Spring Boot Microservices Architecture"
-        };
-
-        // Hobbies
-        this.hobbies = new String[]{"Listening to Music", "Watching OTT services", "Playing Video Games"};
+        skills = new HashMap<>();
+        skills.put("programming", new String[]{"HTML", "CSS", "JavaScript", "Java", "Kotlin"});
+        skills.put("frameworks", new String[]{"Spring", "Firebase"});
+        skills.put("tools", new String[]{"IDEA", "Eclipse", "Android Studio", "Postman"});
+        skills.put("databases", new String[]{"MySQL"});
+        skills.put("buildTools", new String[]{"Maven", "Gradle"});
+        skills.put("versionControl", new String[]{"Git"});
     }
 
-    public String[] getMyHobbies() {
-        return hobbies;
-    }
-
-    public String getFutureGoal() {
-        return "Becoming a Back-End Developer.";
-    }
-
-    public String getSkillsAsString() {
+    private String getSkillsAsString() {
         StringBuilder skillsStr = new StringBuilder();
         for (Map.Entry<String, String[]> entry : skills.entrySet()) {
             skillsStr.append(entry.getKey()).append(": ").append(Arrays.toString(entry.getValue())).append("\n");
@@ -59,31 +33,22 @@ public class Me {
         return skillsStr.toString();
     }
 
-    public String getArchitectureAsString() {
-        return "Architecture: " + Arrays.toString(architecture);
-    }
-    
     @Override
     public String toString() {
         return "Hello, my name is " + name + ".\n" +
-               "I am currently aspiring to be a " + position + ".\n" +
+               "I am currently a " + position + ".\n" +
                "Check out my website: " + web + "\n" +
                "Find me on YouTube: " + youtube + "\n" +
                "Follow me on Instagram: " + instagram+ "\n\n" +
                "Here are some of the skills I have developed:\n" + getSkillsAsString() + "\n" +
-               "My knowledge in architecture includes:\n" + getArchitectureAsString() + "\n" +
-               "My hobbies include: " + Arrays.toString(hobbies) + "\n" +
-               "My future goal is to become " + getFutureGoal();
+               "My hobbies include: " + Arrays.toString(hobbies);
     }
-}
 
-class Main {
     public static void main(String[] args) {
         Me me = new Me();
         System.out.println(me);
     }
 }
-
 ```
 
 
