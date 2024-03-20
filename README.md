@@ -16,7 +16,7 @@
 ![Front-end](https://skillicons.dev/icons?i=html,css,js)<br>
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-59666C.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Css" src ="https://img.shields.io/badge/CSS3-59666C.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-59666C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-59666C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
  
 ![Front-end](https://skillicons.dev/icons?i=idea,eclipse,postman,docker)<br>
 <img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ&logoColor=white"/>
