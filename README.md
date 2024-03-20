@@ -33,7 +33,7 @@
 <h2 align="center"> Career </h2>
 
 <h5 align="center">
-    <span style="font-weight:normal;">Hanshin University, Department of Computer Engineering (2018.03 ~ 2024.03) </span><br>
+    <span style="font-weight:normal;">Hanshin University, Department of Computer Science and Engineering (2018.03 ~ 2024.03) </span><br>
     <span style="font-weight:normal;">Intern at Mobile C&C (2023.08 ~ 2024.02) </span>
 </h5>
 
