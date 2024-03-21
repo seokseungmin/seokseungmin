@@ -2,7 +2,7 @@
 
 <h2 align="center"> Tech Stack </h2>
 
-![Front-end](https://skillicons.dev/icons?i=java,spring,hibernate,mysql)<br>
+![Front-end](https://skillicons.dev/icons?i=java,spring,mysql)<br>
 <img src="https://img.shields.io/badge/Spring-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-59666C?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Java-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-59666C?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-59666C?style=for-the-badge&logo=JUnit5&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-59666C?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 
