@@ -46,9 +46,8 @@
 </h5>
 
 <h2 align="center"> Projects </h2>
-<h5 align="center">
-  [Company Asset Management](https://github.com/seokseungmin/AssetProject)
-</h5>
+[Company Asset Management](https://github.com/seokseungmin/AssetProject)
+
 
 
 
