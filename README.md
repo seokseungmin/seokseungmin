@@ -47,10 +47,8 @@
 
 <h2 align="center"> Projects </h2>
 
-[Company Asset Management](https://github.com/seokseungmin/AssetProject)
-
-
-
+[Company Asset Management](https://github.com/seokseungmin/AssetProject)<br>
+[Dating App](https://github.com/seokseungmin/Dating_App)<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%59666C&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 </div>
