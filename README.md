@@ -34,7 +34,7 @@
 <h2 align="center"> Career </h2>
 
 <h5 align="center">
-    <span style="font-weight:normal;">Hanshin University, Computer Engineering (2018.03 ~ 2024.03) </span><br>
+    <span style="font-weight:normal;">Hanshin Univ. Computer Engineering (2018.03 ~ 2024.03) </span><br>
     <span style="font-weight:normal;">Intern at MobileC&C (2023.08 ~ 2024.02) </span><br>
     <span style="font-weight:normal;">Zero-Base Backend School 25th (2024.05 ~ 2024.10) </span>
 </h5>
@@ -48,7 +48,7 @@
 
 <h2 align="center"> Projects </h2>
 
-[사내 자산관리](https://github.com/seokseungmin/AssetProject)<br><br>
+[Company Asset Management](https://github.com/seokseungmin/AssetProject)<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%59666C&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 </div>
