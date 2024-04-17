@@ -36,6 +36,7 @@
 <h5 align="center">
     <span style="font-weight:normal;">Hanshin University, Department of Computer Science & Engineering (2018.03 ~ 2024.03) </span><br>
     <span style="font-weight:normal;">Intern at Mobile C&C (2023.08 ~ 2024.02) </span>
+    <span style="font-weight:normal;">Zero-Base Backend BootCamp 25th (2024.05 ~ 2024.10) </span>
 </h5>
 
 <h2 align="center"> Certificate </h2>
