@@ -34,22 +34,21 @@
 <h2 align="center"> Career </h2>
 
 <h5 align="center">
-    <span style="font-weight:normal;">Hanshin University, Department of Computer Science & Engineering (2018.03 ~ 2024.03) </span><br>
-    <span style="font-weight:normal;">Intern at Mobile C&C (2023.08 ~ 2024.02) </span><br>
-    <span style="font-weight:normal;">Zero-Base Backend School 25th (2024.05 ~ 2024.10) </span>
+    <span style="font-weight:normal;">한신대학교 컴퓨터공학과 (2018.03 ~ 2024.03) </span><br>
+    <span style="font-weight:normal;">모빌씨앤씨 인턴 (2023.08 ~ 2024.02) </span><br>
+    <span style="font-weight:normal;">제로베이스 백엔드 스쿨 25기 (2024.05 ~ 2024.10) </span>
 </h5>
 
 <h2 align="center"> Certificate </h2>
 
 <h5 align="center">
-  <span style="font-weight:normal;">Engineer Information Processing</span><br>
-  <span style="font-weight:normal;">Structured Query Language Developer</span><br>
+  <span style="font-weight:normal;">정보처리기사</span><br>
+  <span style="font-weight:normal;">SQL개발자</span><br>
 </h5>
 
 <h2 align="center"> Projects </h2>
 
-[Company Asset Management](https://github.com/seokseungmin/AssetProject)<br>
-[Dating App](https://github.com/seokseungmin/Dating_App)<br><br>
+[사내 자산관리](https://github.com/seokseungmin/AssetProject)<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%59666C&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 </div>
