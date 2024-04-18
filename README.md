@@ -3,13 +3,10 @@
 <h2 align="center"> Tech Stack </h2>
 
 ![Front-end](https://skillicons.dev/icons?i=java,spring,mysql)<br>
-<img src="https://img.shields.io/badge/Spring-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-59666C?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-59666C?style=for-the-badge&logo=Spring Security&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Java-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-59666C?style=for-the-badge&logo=Thymeleaf&logoColor=white">
-<img src="https://img.shields.io/badge/JUnit5-59666C?style=for-the-badge&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-59666C?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 
@@ -18,9 +15,8 @@
 <img src="https://img.shields.io/badge/Eclipse-59666C?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-59666C?style=for-the-badge&logo=Postman&logoColor=white"/>
 
-![Front-end](https://skillicons.dev/icons?i=gradle,git,github)<br>
+![Front-end](https://skillicons.dev/icons?i=gradle,github)<br>
 <img src="https://img.shields.io/badge/Gradle-59666C?style=for-the-badge&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/git-59666C?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-59666C?style=for-the-badge&logo=github&logoColor=white">
 
 <h2 align="center"> Career </h2>
