@@ -13,18 +13,10 @@
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-59666C?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 
-
-![Front-end](https://skillicons.dev/icons?i=html,css,js)<br>
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-59666C.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="Css" src ="https://img.shields.io/badge/CSS3-59666C.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-59666C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
- 
-![Front-end](https://skillicons.dev/icons?i=idea,eclipse,postman,docker)<br>
+![Front-end](https://skillicons.dev/icons?i=idea,eclipse,postman)<br>
 <img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-59666C?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-59666C?style=for-the-badge&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-59666C?style=for-the-badge&logo=Docker&logoColor=white"/>
-
 
 ![Front-end](https://skillicons.dev/icons?i=gradle,git,github)<br>
 <img src="https://img.shields.io/badge/Gradle-59666C?style=for-the-badge&logo=Gradle&logoColor=white">
