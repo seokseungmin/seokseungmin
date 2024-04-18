@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Java-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-59666C?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-59666C?style=for-the-badge&logo=MariaDB&logoColor=white"/>
 
 ![Front-end](https://skillicons.dev/icons?i=idea,eclipse,postman)<br>
 <img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ&logoColor=white"/>
