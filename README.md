@@ -26,7 +26,7 @@
     <span style="font-weight:normal;">Zero-Base Backend School 25th (2024.05 ~ 2024.10) </span>
 </h5>
 
-<h2 align="center"> License </h2>
+<h2 align="center"> Certificate </h2>
 
 <h5 align="center">
   <span style="font-weight:normal;">Engineer Information Processing</span><br>
