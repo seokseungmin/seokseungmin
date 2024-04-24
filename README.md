@@ -4,10 +4,15 @@
 
 ![Front-end](https://skillicons.dev/icons?i=java,spring,mysql)<br>
 <img src="https://img.shields.io/badge/SpringBoot-59666C?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mybatis-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-59666C?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mybatis-59666C?style=for-the-badge&logo=Mybatis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-59666C?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/>
+
+![Front-end](https://skillicons.dev/icons?i=html,css,js)<br>
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-59666C.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="Css" src ="https://img.shields.io/badge/CSS3-59666C.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-59666C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 ![Front-end](https://skillicons.dev/icons?i=idea,eclipse,postman)<br>
 <img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ&logoColor=white"/>
