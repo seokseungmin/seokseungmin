@@ -15,7 +15,7 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-59666C.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 ![Front-end](https://skillicons.dev/icons?i=idea,eclipse,postman)<br>
-<img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-59666C?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-59666C?style=for-the-badge&logo=Postman&logoColor=white"/>
 
