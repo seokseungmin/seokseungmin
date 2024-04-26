@@ -19,12 +19,12 @@
 <img src="https://img.shields.io/badge/Eclipse-59666C?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-59666C?style=for-the-badge&logo=Postman&logoColor=white"/>
 
-![Front-end](https://skillicons.dev/icons?i=gradle,github,notion,discord)<br>
+![Front-end](https://skillicons.dev/icons?i=gradle,github,notion)<br>
 <img src="https://img.shields.io/badge/Gradle-59666C?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/github-59666C?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-59666C?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-59666C?style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-59666C?style=for-the-badge&logo=Discord&logoColor=white">
+
 
 <h2 align="center"> Career </h2>
 
