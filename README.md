@@ -44,7 +44,7 @@
 
 <h2 align="center"> Projects </h2>
 
-[Company Asset Management](https://github.com/seokseungmin/AssetProject)<br><br>
+[Company Asset Management](https://github.com/seokseungmin/AssetProject)<br>
 [Seoul Public Wi-Fi](https://github.com/seokseungmin/SeoulWifi-Project)<br><br>
 
 
