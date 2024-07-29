@@ -46,7 +46,9 @@
 
 [사내 자산관리](https://github.com/seokseungmin/AssetProject)<br>
 [서울 공공 와이파이](https://github.com/seokseungmin/SeoulWifi-Project)<br>
+[날씨 일기](https://github.com/seokseungmin/weather)<br>
 [주식 배당금](https://github.com/seokseungmin/dividend)<br><br>
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%59666C&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
