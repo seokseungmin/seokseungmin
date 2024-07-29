@@ -30,16 +30,16 @@
 <h2 align="center"> Career </h2>
 
 <h5 align="center">
-    <span style="font-weight:normal;">Computer Engineering (2018.03 ~ 2024.03) </span><br>
-    <span style="font-weight:normal;">Intern at MobileC&C (2023.08 ~ 2024.02) </span><br>
-    <span style="font-weight:normal;">Zero-Base Backend School 25th (2024.05 ~ 2024.10) </span>
+    <span style="font-weight:normal;">컴퓨터 공학과 (2018.03 ~ 2024.03) </span><br>
+    <span style="font-weight:normal;">모빌씨앤씨 인턴 (2023.08 ~ 2024.02) </span><br>
+    <span style="font-weight:normal;">제로베이스 백엔드 스쿨 25기 (2024.05 ~ 2024.10) </span>
 </h5>
 
 <h2 align="center"> Certificate </h2>
 
 <h5 align="center">
-  <span style="font-weight:normal;">Engineer Information Processing</span><br>
-  <span style="font-weight:normal;">Structured Query Language Developer</span><br>
+  <span style="font-weight:normal;">정보처리기사</span><br>
+  <span style="font-weight:normal;">SQLD</span><br>
 </h5>
 
 <h2 align="center"> Projects </h2>
