@@ -4,6 +4,9 @@
 
 ![Front-end](https://skillicons.dev/icons?i=java,spring,mysql)<br>
 <img src="https://img.shields.io/badge/SpringBoot-59666C?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringDataJPA-59666C?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringSecurity-59666C?style=for-the-badge&logo=SpringSecurity-59666C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Querydsl-59666C?style=for-the-badge&logo=Querydsl-59666C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-59666C?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-59666C?style=for-the-badge&logo=Mybatis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Thymeleaf-59666C?style=for-the-badge&logo=Thymeleaf&logoColor=white">
