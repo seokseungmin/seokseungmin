@@ -47,6 +47,7 @@
 
 <h2 align="center"> Projects </h2>
 
+[RESTful 게시판](https://github.com/seokseungmin/Noticeboard)<br>
 [사내 자산관리](https://github.com/seokseungmin/AssetProject)<br>
 [서울 공공 와이파이](https://github.com/seokseungmin/SeoulWifi-Project)<br>
 [날씨 일기](https://github.com/seokseungmin/weather)<br>
