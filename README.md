@@ -31,7 +31,7 @@
 
 <h2 align="center"> Projects </h2>
 
-[REST API 게시판](https://github.com/seokseungmin/Noticeboard)<br>
+[게시판 개인프로젝트](https://github.com/seokseungmin/Noticeboard)<br>
 [여행족 팀프로젝트](https://github.com/Travel-Tribe)<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%59666C&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)<br>
