@@ -5,7 +5,7 @@
 ![Front-end](https://skillicons.dev/icons?i=java,spring,mysql)<br>
 <img src="https://img.shields.io/badge/Java-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-59666C?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Data JPA-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/><br>
 
 ![Front-end](https://skillicons.dev/icons?i=idea,postman,gradle,git)<br>
