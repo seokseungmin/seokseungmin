@@ -5,16 +5,10 @@
 <div align="center">
   <!-- 1번째 줄 -->
   <img src="https://github.com/user-attachments/assets/e0076733-a72d-4ec6-a80b-4e7d739d7204" width="160"/>  
-  <img src="https://github.com/user-attachments/assets/b3a1db2d-c27f-440b-aaf6-099453d7cfec" width="160"/>
-  <img src="https://github.com/user-attachments/assets/131f0927-8083-41e8-88c4-4a2dec3c0b06" width="160"/>
   <img src="https://github.com/user-attachments/assets/e4415c2b-510b-4182-a67c-158be58d4e5c" width="160"/>
-  <img src="https://github.com/user-attachments/assets/f54e87ae-38ab-4e09-86c5-65515296de6f" width="160"/>
-  <br><br>
-  <!-- 2번째 줄 -->
   <img src="https://github.com/user-attachments/assets/32211023-4b3a-4f55-bde3-6fd02b0fa588" width="160"/>
   <img src="https://github.com/user-attachments/assets/45b849ab-99da-45c3-9469-4bf2f6e901d1" width="160"/>
   <img src="https://github.com/user-attachments/assets/af547533-95f0-4a77-aa5c-ebca5c383e00" width="160"/>
-  <img src="https://github.com/user-attachments/assets/812a3321-93c7-4243-8aec-2527e82ef13d" width="160"/>
   <img src="https://github.com/user-attachments/assets/8827cee9-0caf-43dc-87b2-398d61625cbb" width="160"/>
 </div>
 
