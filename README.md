@@ -2,15 +2,20 @@
 
 <h2 align="center"> About Me </h2>
 
-<div align="center">
-  <!-- 1번째 줄 -->
-  <img src="https://github.com/user-attachments/assets/38e84b94-9a66-4664-8357-a9ca40819313" width="160"/>  
-  <img src="https://github.com/user-attachments/assets/01246272-75c1-4dcd-a223-1a3416e7461f" width="160"/>
-  <img src="https://github.com/user-attachments/assets/30086fb9-76df-4560-b1a3-06d7925ac02e" width="160"/>
-  <img src="https://github.com/user-attachments/assets/b8afe799-7800-40f3-a331-2edbbd4166c5" width="160"/>
-  <img src="https://github.com/user-attachments/assets/c4e0c9c9-29ab-4267-a1ec-0c309bcd4247" width="160"/>
-  <img src="https://github.com/user-attachments/assets/2ccf868c-9583-426e-aa31-8aa334e928f8" width="160"/>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+">
+  <img src="https://github.com/user-attachments/assets/38e84b94-9a66-4664-8357-a9ca40819313" style="width: 160px; height: auto;" /> 
+  <img src="https://github.com/user-attachments/assets/01246272-75c1-4dcd-a223-1a3416e7461f" style="width: 160px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/30086fb9-76df-4560-b1a3-06d7925ac02e" style="width: 160px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/b8afe799-7800-40f3-a331-2edbbd4166c5" style="width: 160px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/c4e0c9c9-29ab-4267-a1ec-0c309bcd4247" style="width: 160px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/2ccf868c-9583-426e-aa31-8aa334e928f8" style="width: 160px; height: auto;" />
 </div>
+
 
 
 <br>
