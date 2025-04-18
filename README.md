@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Mysql-59666C?style=for-the-badge&logo=MySql&logoColor=white"/><br>
 
 ![Front-end](https://skillicons.dev/icons?i=idea,postman,gradle,git)<br>
-<img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-59666C?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-59666C?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-59666C?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/git-59666C?style=for-the-badge&logo=git&logoColor=white">
@@ -51,6 +51,7 @@
 
 <h2 align="center"> Projects </h2>
 
-[여행족 팀프로젝트](https://github.com/Travel-Tribe)<br><br>
+[Odiga Project](https://github.com/seokseungmin/Odiga)<br>
+[Travel-Tribe Project](https://github.com/Travel-Tribe)<br><br>
 
 </div>
